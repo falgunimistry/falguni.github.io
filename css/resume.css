@@ -190,3 +190,5 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.mobile-title { font-weight: 800 !important; text-transform: uppercase !important;  font-size: 1rem !important; }
